@@ -1,5 +1,3 @@
-#include <algorithm>
-
 const int maxn = 1000000 + 5;
 
 int psz;
